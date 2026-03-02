@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-id="559" tvg-language="Hindi" group-title="JIOTV+ (IND IP)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",Pogo Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b967f351139503a88b1d1945203150b:c3e26279cc513e13154958f934141dc0
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"hdnea=st=1772415943~exp=1772502343~acl=/*~hmac=ea087d8e5eaf38c9ad63e00b63a1a393a2913f39ccc1760d2696472202865a50"}
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Pogo_Hindi_BTS/output/index.mpd?hdnea=st=1772415943~exp=1772502343~acl=/*~hmac=ea087d8e5eaf38c9ad63e00b63a1a393a2913f39ccc1760d2696472202865a50&xxx=%7Ccookie=hdnea=st=1772415943~exp=1772502343~acl=/*~hmac=ea087d8e5eaf38c9ad63e00b63a1a393a2913f39ccc1760d2696472202865a50
