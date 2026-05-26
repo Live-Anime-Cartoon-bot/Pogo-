@@ -1,7 +1,0 @@
-pyrogram
-tgcrypto
-aiohttp
-pytz
-psutil
-yt-dlp
-curl_cffi
